@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CommonOps/obj
+/.vs/Docker-Dynamo/v17
+/CommonOps/bin/Debug/net6.0
+/Docker-Dynamo/bin/Debug/net6.0
+/Docker-Dynamo/obj
+/services/obj
+/.vs/Docker-Dynamo/FileContentIndex
+/.vs/ProjectEvaluation
+/.vs/Docker-Dynamo/config
+/.vs/Docker-Dynamo/DesignTimeBuild
